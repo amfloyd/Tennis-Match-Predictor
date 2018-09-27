@@ -1,0 +1,60 @@
+Full Set:
+	Train Accuracy: 0.8947215987256535
+	Valid Accuracy: 0.8100576553491352
+	Test Accuracy: 0.807868252516011
+
+ace:
+	Train Accuracy: -0.08395710408380075
+	Valid Accuracy: -0.014681395145744291
+	Test Accuracy: -0.0176447523199581
+
+df:
+	Train Accuracy: -0.08424672829638491
+	Valid Accuracy: -0.0037909403091010985
+	Test Accuracy: -0.004966671023395541
+
+svpt:
+	Train Accuracy: -0.08417432224323884
+	Valid Accuracy: -0.016603240116916607
+	Test Accuracy: -0.027578094366749406
+
+1stIn:
+	Train Accuracy: -0.08627409778447415
+	Valid Accuracy: -0.015428779301200124
+	Test Accuracy: -0.014246503725003246
+
+1stWon:
+	Train Accuracy: -0.08641890989076617
+	Valid Accuracy: -0.008168476076771403
+	Test Accuracy: -0.004313161678211941
+
+2ndWon:
+	Train Accuracy: -0.08801184305997911
+	Valid Accuracy: -0.007527861086380594
+	Test Accuracy: -0.006927199058946454
+
+SvGms:
+	Train Accuracy: -0.08714297042222663
+	Valid Accuracy: 0.00026628796337380134
+	Test Accuracy: 0.001699124297477539
+
+bpFaced:
+	Train Accuracy: -0.08801184305997911
+	Valid Accuracy: -0.0047518627946872005
+	Test Accuracy: -0.002614037380734513
+
+bpSaved:
+	Train Accuracy: -0.08764981279424888
+	Valid Accuracy: -0.001548787842733379
+	Test Accuracy: -0.0019605280355509125
+
+set_score:
+	Train Accuracy: -0.0848983827746993
+	Valid Accuracy: 0.020445660160683277
+	Test Accuracy: 0.025225460724088378
+
+h2h:
+	Train Accuracy: 0.06860244989491193
+	Valid Accuracy: 0.1789978702824001
+	Test Accuracy: 0.1927852568291727
+

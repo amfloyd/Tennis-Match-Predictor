@@ -1,0 +1,29 @@
+Modeling head to head baseline...
+Head to head baseline train accuracy:  0.6478438250657719
+Head to head baseline dev accuracy:  0.6207023756824553
+Head to head baseline test accuracy:  0.5778766086298259
+Modeling rank baseline...
+Rank baseline train accuracy:  0.6407900255461929
+Rank baseline dev accuracy:  0.6669617824996311
+Rank baseline test accuracy:  0.66833838001514
+Modeling seed baseline...
+Seed baseline train accuracy:  0.5886300377473596
+Seed baseline dev accuracy:  0.589493876346466
+Seed baseline test accuracy:  0.5916919000757003
+Modeling age baseline...
+Age baseline train accuracy:  0.47485415792885194
+Age baseline dev accuracy:  0.48812158772318137
+Age baseline test accuracy:  0.5142884178652536
+
+Training and predicting with Linear SVM...
+Train accuracy: 0.8640983812272556
+Dev accuracy: 0.8804896381402341
+Test accuracy: 0.8948751642575559
+Training and predicting with MLP...
+train accuracy:  0.862529802986573
+Dev accuracy:  0.8760871899495329
+Test accuracy:  0.8913272010512484
+Training and predicting with Logistic Regression...
+train accuracy:  0.8620278579495545
+Dev accuracy:  0.8754429292386986
+Test accuracy:  0.8900131406044678

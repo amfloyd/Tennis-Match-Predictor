@@ -1,0 +1,11 @@
+.idea
+.ipynb_checkpoints
+src/.ipynb_checkpoints
+plan.txt
+report/report.aux
+report/report.bbl
+report/report.blg
+report/report.log
+*.DS_Store
+*__pycache__
+*.Rhistory

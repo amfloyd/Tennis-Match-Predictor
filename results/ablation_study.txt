@@ -1,0 +1,95 @@
+Full Set:
+	Train Accuracy: 0.8859610917537747
+	Valid Accuracy: 0.8845906558079726
+	Test Accuracy: 0.8990946070069544
+
+ace:
+	Train Accuracy: 0.0008658032903458013
+	Valid Accuracy: 0.10805302963875896
+	Test Accuracy: 0.14525652801469624
+
+df:
+	Train Accuracy: -0.000876356988399829
+	Valid Accuracy: 0.1214478003202849
+	Test Accuracy: 0.16349560425141052
+
+svpt:
+	Train Accuracy: -0.0027636972903742896
+	Valid Accuracy: 0.10023048356074782
+	Test Accuracy: 0.13580894895682982
+
+1stIn:
+	Train Accuracy: -0.0012393070464717937
+	Valid Accuracy: 0.10891029496237659
+	Test Accuracy: 0.1473559900275554
+
+1stWon:
+	Train Accuracy: -0.0018200271393870038
+	Valid Accuracy: 0.11308946341501269
+	Test Accuracy: 0.1594278966014958
+
+2ndWon:
+	Train Accuracy: -0.0028362873019887047
+	Valid Accuracy: 0.11909032068033631
+	Test Accuracy: 0.16034641123212168
+
+SvGms:
+	Train Accuracy: -0.0027636972903742896
+	Valid Accuracy: 0.12230506564390253
+	Test Accuracy: 0.16611993176748452
+
+bpFaced:
+	Train Accuracy: -0.003997727487819125
+	Valid Accuracy: 0.11791158086036202
+	Test Accuracy: 0.16244587324498094
+
+bpSaved:
+	Train Accuracy: -0.0027636972903742896
+	Valid Accuracy: 0.12187643298209372
+	Test Accuracy: 0.16651358089489565
+
+set_score:
+	Train Accuracy: -0.0026185172671454593
+	Valid Accuracy: 0.13484257100181085
+	Test Accuracy: 0.17832305471722865
+
+h2h:
+	Train Accuracy: 0.11700982187338882
+	Valid Accuracy: 0.24843022638115075
+	Test Accuracy: 0.2801469623409001
+
+completeness:
+	Train Accuracy: -0.002545927255531044
+	Valid Accuracy: 0.06990472273777315
+	Test Accuracy: 0.06665791890827977
+
+surface:
+	Train Accuracy: -7.786686064137349e-05
+	Valid Accuracy: 0.12991329539100926
+	Test Accuracy: 0.1724183178060622
+
+age:
+	Train Accuracy: -0.0032718273716750845
+	Valid Accuracy: 0.12423391262204231
+	Test Accuracy: 0.16625114814328823
+
+avg_rank:
+	Train Accuracy: -0.0027636972903742896
+	Valid Accuracy: 0.12487686161475553
+	Test Accuracy: 0.16611993176748452
+
+win_ratio:
+	Train Accuracy: -0.0031266473484462542
+	Valid Accuracy: 0.12509117794565994
+	Test Accuracy: 0.1697939902899881
+
+ranks:
+	Train Accuracy: -7.786686064137349e-05
+	Valid Accuracy: 0.12744865758560853
+	Test Accuracy: 0.16874425928355852
+
+seeds:
+	Train Accuracy: -0.0027636972903742896
+	Valid Accuracy: 0.12434107078749446
+	Test Accuracy: 0.16664479727069936
+
